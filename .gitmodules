@@ -7,3 +7,51 @@
 [submodule "user/themes/theviewinside"]
 	path = user/themes/theviewinside
 	url = ../The-View-Inside.git
+[submodule "user/plugins/blogroll"]
+	path = user/plugins/blogroll
+	url = ../../habari-extras/blogroll.git
+[submodule "user/plugins/bricks"]
+	path = user/plugins/bricks
+	url = ../../habari-extras/bricks.git
+[submodule "user/plugins/browserupdate"]
+	path = user/plugins/browserupdate
+	url = ../../habari-extras/browserupdate.git
+[submodule "user/plugins/draftdashmodule"]
+	path = user/plugins/draftdashmodule
+	url = ../../habari-extras/draftdashmodule.git
+[submodule "user/plugins/eventscontent"]
+	path = user/plugins/eventscontent
+	url = ../../habari-extras/eventscontent.git
+[submodule "user/plugins/footnotes"]
+	path = user/plugins/footnotes
+	url = ../../habari-extras/footnotes.git
+[submodule "user/plugins/gravatar"]
+	path = user/plugins/gravatar
+	url = ../../habari-extras/gravatar.git
+[submodule "user/plugins/metaseo"]
+	path = user/plugins/metaseo
+	url = ../../habari-extras/metaseo
+[submodule "user/plugins/picasasilo"]
+	path = user/plugins/picasasilo
+	url = ../picasasilo.git
+[submodule "user/plugins/piwik"]
+	path = user/plugins/piwik
+	url = ../../habari-extras/piwik
+[submodule "user/plugins/preapproved"]
+	path = user/plugins/preapproved
+	url = ../../habari-extras/preapproved.git
+[submodule "user/plugins/RN-Block-Tag-Cloud"]
+	path = user/plugins/RN-Block-Tag-Cloud
+	url = ../../Konzertheld/RN-Block-Tag-Cloud.git
+[submodule "user/plugins/rnbtagcloud"]
+	path = user/plugins/rnbtagcloud
+	url = ../../Konzertheld/RN-Block-Tag-Cloud.git
+[submodule "user/plugins/simpleblacklist"]
+	path = user/plugins/simpleblacklist
+	url = ../../Konzertheld/simpleblacklist.git
+[submodule "user/plugins/tabasamu"]
+	path = user/plugins/tabasamu
+	url = ../tabasamu.git
+[submodule "user/plugins/tagtray"]
+	path = user/plugins/tagtray
+	url = ../../habari-extras/tagtray.git
