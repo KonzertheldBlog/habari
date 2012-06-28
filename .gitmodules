@@ -6,7 +6,7 @@
 	url = https://github.com/habari/doc.git
 [submodule "user/themes/theviewinside"]
 	path = user/themes/theviewinside
-	url = ../The-View-Inside.git
+	url = https://github.com/KonzertheldBlog/The-View-Inside.git
 [submodule "user/plugins/blogroll"]
 	path = user/plugins/blogroll
 	url = ../../habari-extras/blogroll.git
