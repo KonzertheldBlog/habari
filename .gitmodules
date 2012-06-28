@@ -4,3 +4,6 @@
 [submodule "doc"]
 	path = doc
 	url = https://github.com/habari/doc.git
+[submodule "user/themes/theviewinside"]
+	path = user/themes/theviewinside
+	url = ../The-View-Inside.git
