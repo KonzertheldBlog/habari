@@ -49,3 +49,6 @@
 [submodule "user/plugins/tagtray"]
 	path = user/plugins/tagtray
 	url = ../../habari-extras/tagtray.git
+[submodule "user/plugins/tabasamu"]
+	path = user/plugins/tabasamu
+	url = https://github.com/habari-extras/tabasamu.git
