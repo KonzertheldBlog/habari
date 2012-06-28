@@ -31,9 +31,6 @@
 [submodule "user/plugins/metaseo"]
 	path = user/plugins/metaseo
 	url = ../../habari-extras/metaseo
-[submodule "user/plugins/picasasilo"]
-	path = user/plugins/picasasilo
-	url = ../picasasilo.git
 [submodule "user/plugins/piwik"]
 	path = user/plugins/piwik
 	url = ../../habari-extras/piwik
